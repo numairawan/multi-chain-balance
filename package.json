@@ -1,6 +1,6 @@
 {
   "name": "multi-chain-balance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript library to fetch Ethereum wallet balances across multiple chains",
   "main": "src/main.js",
   "type": "module",
@@ -14,6 +14,11 @@
     "web3",
     "multi-chain"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numairawan/multi-chain-balance.git"
+  },
+  "homepage": "https://github.com/numairawan/multi-chain-balance#readme",
   "author": "Numair Awan",
   "license": "MIT",
   "engines": {
